@@ -1,0 +1,26 @@
+[
+    {
+        "visit_number": 1,
+        "date": "2026-09-21 23:14:40",
+        "patient_name": "Ramesh Gowda DR",
+        "diagnosis_stage": "Stage 1: Mild Diabetic Retinopathy",
+        "confidence": 31.632593274116516,
+        "prescription": "1. Tab. Metformin 500mg - 1-0-1 after meals\n2. Lubricating Eye Drops - 1 drop thrice daily\n3. Follow up in 3 months with HbA1c report."
+    },
+    {
+        "visit_number": 2,
+        "date": "2026-09-21 23:18:43",
+        "patient_name": "Ramesh Gowda DR",
+        "diagnosis_stage": "Stage 1: Mild Diabetic Retinopathy",
+        "confidence": 25.708460807800293,
+        "prescription": "1. Tab. Metformin 500mg - 1-0-1 after meals\n2. Lubricating Eye Drops - 1 drop thrice daily\n3. Follow up in 3 months with HbA1c report."
+    },
+    {
+        "visit_number": 3,
+        "date": "2026-09-21 23:19:00",
+        "patient_name": "Ramesh Gowda DR",
+        "diagnosis_stage": "Stage 1: Mild Diabetic Retinopathy",
+        "confidence": 33.68675112724304,
+        "prescription": "1. Tab. Metformin 500mg - 1-0-1 after meals\n2. Lubricating Eye Drops - 1 drop thrice daily\n3. Follow up in 3 months with HbA1c report."
+    }
+]
